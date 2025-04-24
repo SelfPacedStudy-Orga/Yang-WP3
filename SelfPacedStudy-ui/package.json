@@ -1,0 +1,49 @@
+{
+  "name": "selfpacedstudy-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.15.5",
+    "@mui/material": "^5.15.5",
+    "axios": "^1.8.4",
+    "cosine-similarity": "^1.0.1",
+    "html2canvas": "^1.4.1",
+    "js-cookie": "^3.0.5",
+    "katex": "^0.16.9",
+    "next": "^14.2.27",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-katex": "^3.0.1",
+    "react-player": "^2.14.1",
+    "sharp": "^0.33.5",
+    "use-react-screenshot": "^4.0.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/js-cookie": "^3.0.6",
+    "@types/next": "^8.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-katex": "^3.0.4",
+    "@types/uuid": "^9.0.8",
+    "@typescript-eslint/eslint-plugin": "^6.19.0",
+    "@typescript-eslint/parser": "^6.19.0",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
